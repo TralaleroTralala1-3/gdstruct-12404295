@@ -3,10 +3,10 @@ package com.gdstruct.module2;
 public class player
 {
     private int id;
-    private String name;  // <-- Capital S
+    private String name;
     private int level;
 
-    public player(int id, String name, int level) {  // <-- Capital S
+    public player(int id, String name, int level) {
         this.id = id;
         this.name = name;
         this.level = level;
